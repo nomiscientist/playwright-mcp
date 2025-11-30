@@ -6,5 +6,5 @@ playwright-report/
 .vscode/mcp.json
 .idea
 .DS_Store
-.env
 sessions/
+config.bat
